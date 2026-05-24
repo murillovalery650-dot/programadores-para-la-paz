@@ -1,0 +1,1 @@
+Usar la terminal es muy importante para un desarrollador porque le permite controlar los archivos y carpetas del proyecto de forma rápida y directa. Al no depender de una interfaz visual con botones, la terminal optimiza el tiempo de trabajo, ayuda a automatizar procesos complejos y es la herramienta fundamental para conectar y subir proyectos a Git y GitHub de manera profesional
